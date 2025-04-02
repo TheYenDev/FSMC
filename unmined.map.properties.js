@@ -9,7 +9,7 @@ var UnminedMapProperties = {
     maxRegionX: 8,
     maxRegionZ: 15,
     worldName: "FSMC - Copy",
-    background: "191919",
+    background: "#191919",
     markers: new Array(),
     enableGrid: true,
     showGrid: true,
