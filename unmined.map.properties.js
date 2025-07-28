@@ -8,7 +8,7 @@ var UnminedMapProperties = {
     minRegionZ: -12,
     maxRegionX: 8,
     maxRegionZ: 22,
-    worldName: "FSMC - 1.2.4 - [0725]",
+    worldName: "FSMC - 1.2.4 - [0728]",
     background: "#191919",
     markers: new Array(),
     enableGrid: true,
